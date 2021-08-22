@@ -105,9 +105,10 @@
   text-align: center;
 }
 
-.hand .handImageContainer {
+.handImageContainer {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .referee {
